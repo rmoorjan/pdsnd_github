@@ -169,6 +169,7 @@ def user_stats(df, city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+#Refactoring 2
 def raw_data(df):
     rd_start = 0
     rd_end = 5
