@@ -5,10 +5,13 @@ July 13, 2019
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Run statistics on bikeshare data
 
 ### Files used
-Include the files used
+Bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity.com
+
+## Author
+rmoorjan
